@@ -19,15 +19,15 @@ Welcome to my GitHub profile! I'm an Industrial Electronics and Automation Engin
 
 Here are some of the projects I've been working on:
 
-### [Project 1: Automation System for Smart Homes]
+### [Automation System for Smart Homes]
 - Developed a smart home automation system using Arduino and various sensors.
 - Implemented features for controlling lighting, temperature, and security systems.
 
-### [Project 2: Embedded Systems for Industrial Automation]
+### [Embedded Systems for Industrial Automation]
 - Designed and programmed embedded systems for industrial automation applications.
 - Focused on reliability and real-time performance.
 
-### [Project 3: Robotics and IoT Integration]
+### [Robotics and IoT Integration]
 - Integrated IoT solutions with robotics for remote monitoring and control.
 - Utilized sensors and actuators for various robotic applications.
 
@@ -36,6 +36,9 @@ Here are some of the projects I've been working on:
 - **Bachelor's Degree in Industrial Electronics and Automation Engineering**
   - Institution: Universidad de Las Palmas de Gran Canaria
   - Year of Graduation: 2023
+
+- **Currently Studying a Master's Degree in Data Analytics**
+  - Institution: Universidad Jose Camilo Cela
 
 ## Contact
 
