@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there, I'm Alejandro Sosa Monzón 👋
 
-<!--
-**AleMonz/AleMonz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm an Industrial Electronics and Automation Engineer with a passion for computer science and electronics. Currently, I'm embarking on my professional journey and excited to contribute to the tech community. Below you'll find more about me and my work.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 **Profession:** Industrial Electronics and Automation Engineer
+- 📍 **Location:** Spain
+- 🌐 **LinkedIn:** [Alejandro Sosa Monzón](https://www.linkedin.com/in/alejandro-sosa-monzon/)
+- 💻 **Interests:** Computer Science, Electronics
+
+## Skills
+
+- **Programming Languages:** Python, C, C++, C#, Visual Basic
+- **Tools and Technologies:** Arduino, MATLAB, Simulink, Git, PLCs, SQL
+- **Areas of Expertise:** Automation Systems, Embedded Systems, Robotics, IoT and DataBases
+
+## Projects
+
+Here are some of the projects I've been working on:
+
+### [Project 1: Automation System for Smart Homes]
+- Developed a smart home automation system using Arduino and various sensors.
+- Implemented features for controlling lighting, temperature, and security systems.
+
+### [Project 2: Embedded Systems for Industrial Automation]
+- Designed and programmed embedded systems for industrial automation applications.
+- Focused on reliability and real-time performance.
+
+### [Project 3: Robotics and IoT Integration]
+- Integrated IoT solutions with robotics for remote monitoring and control.
+- Utilized sensors and actuators for various robotic applications.
+
+## Education
+
+- **Bachelor's Degree in Industrial Electronics and Automation Engineering**
+  - Institution: Universidad de Las Palmas de Gran Canaria
+  - Year of Graduation: 2023
+
+## Contact
+
+I'm always open to discussing new projects, ideas, or opportunities to collaborate. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/alejandro-sosa-monzon/).
+
+Thank you for visiting my profile!
